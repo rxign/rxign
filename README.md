@@ -18,13 +18,16 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rxign&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rxign&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rxign&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.shion.dev/api?username=rxign&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&title_color=ffb6c1&text_color=ffc0cb&icon_color=ff69b4&bg_color=fff0f5)<br/>
+
+![](https://streak-stats.demolab.com/?user=rxign&theme=rose_pine&hide_border=true)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rxign&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=ffb6c1&text_color=ffc0cb&bg_color=fff0f5)
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=rxign&icon=0&color=ff69b4)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=rxign&icon=0&color=ffb6c1)](https://visitcount.itsvg.in)
 
 ---
 
