@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my GitHub ‎ꫂ᭪݁ </h1>
+<h1 align="center"> Welcome to my GitHub ִ ! ᰔ ִ ׄ</h1>
 
 ---
 
@@ -27,10 +27,10 @@
 
 ---
 
-## 💰 Support me (if you want 𐔌՞. .՞𐦯)
+## 💗 Support me (if you want 𐔌՞. .՞𐦯)
 
-[![PayPal](https://img.shields.io/badge/PayPal-pink?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Zharicaa)
+Username: **Zharicaa**
 
 ---
 
-💖 *Thanks for visiting my profile! ⋆. 𐙚 ˚*
+ *Thanks for visiting my profile! ₍^. .^₎⟆*
