@@ -2,7 +2,11 @@
   <img src="YOUR-PINK-BANNER-IMAGE-LINK" width="100%" />
 </p>
 
-<h1 align="center">💖 Welcome to my GitHub 💖</h1>
+<h1 align="center">ִ ࣪ ˖ ࣪ ᨰꫀᥣᥴ᥆ꩇꫀ ! ᰔ ִ ׄ</h1>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/pink-aesthetic-background.jpg" width="100%" />
+</p>
 
 ---
 
@@ -17,12 +21,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://i.imgur.com/8QfQvZL.png" width="100%" />
+</p>
+
 # 📊 GitHub Stats:
 
-<!-- 💗 Main Stats (includes total contributions) -->
+<!-- 💗 Main Stats (Total Contributions included) -->
 ![](https://github-readme-stats.shion.dev/api?username=rxign&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&title_color=ffb6c1&text_color=ffc0cb&icon_color=ff69b4&bg_color=fff0f5)<br/>
 
-<!-- 💞 Streak Stats (fully pink customized) -->
+<!-- 💞 Streak Stats (fully pink styled) -->
 ![](https://streak-stats.demolab.com/?user=rxign&theme=rose_pine&hide_border=true&ring=ffb6c1&fire=ff69b4&currStreakLabel=ffb6c1&sideNums=ffc0cb&currStreakNum=ff69b4&dates=ffc0cb)<br/>
 
 <!-- 🌸 Top Languages -->
@@ -30,11 +38,15 @@
 
 ---
 
+<p align="center">
+  <img src="https://i.imgur.com/8QfQvZL.png" width="100%" />
+</p>
+
 [![](https://komarev.com/ghpvc/?username=rxign&icon=0&color=ffb6c1)](https://visitcount.itsvg.in)
 
 ---
 
-## 💰 Support me (if you want 💗)
+## 💰 Support me (if you want )
 
 [![PayPal](https://img.shields.io/badge/PayPal-pink?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Zharicaa)
 
