@@ -19,11 +19,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=rxign&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&title_color=ffb6c1&text_color=ffc0cb&icon_color=ff69b4&bg_color=fff0f5)<br/>
+<!-- 💗 Main Stats (includes total contributions) -->
+![](https://github-readme-stats.shion.dev/api?username=rxign&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&title_color=ffb6c1&text_color=ffc0cb&icon_color=ff69b4&bg_color=fff0f5)<br/>
 
-![](https://streak-stats.demolab.com/?user=rxign&theme=rose_pine&hide_border=true)<br/>
+<!-- 💞 Streak Stats (fully pink customized) -->
+![](https://streak-stats.demolab.com/?user=rxign&theme=rose_pine&hide_border=true&ring=ffb6c1&fire=ff69b4&currStreakLabel=ffb6c1&sideNums=ffc0cb&currStreakNum=ff69b4&dates=ffc0cb)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rxign&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=ffb6c1&text_color=ffc0cb&bg_color=fff0f5)
+<!-- 🌸 Top Languages -->
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rxign&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ffb6c1&text_color=ffc0cb&bg_color=fff0f5)
 
 ---
 
